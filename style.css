@@ -9,14 +9,16 @@ body {
 
 /* Hero Section */
 .hero {
-    background-color: #007bff;
+    background-color: #1f76d3;
     color: white;
     padding: 50px 20px;
+    min-height: 50vh;
+    align-content: center;
 }
 
 .hero h1 {
     margin: 0;
-    font-size: 2em;
+    font-size: 3em;
 }
 
 .hero p {
